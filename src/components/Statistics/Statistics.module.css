@@ -1,0 +1,24 @@
+
+.statistics {
+    border: solid 1px red;
+}
+
+.title {
+    text-align: center;
+}
+
+.item {
+    list-style: none;
+}
+
+.stat_list {
+    display: flex;
+    justify-content: space-around;
+    padding: 0px;
+    
+}
+
+.percentage {
+    display: block;
+ 
+}
